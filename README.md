@@ -1,3 +1,7 @@
+## 🎥 Proje Tanıtım ve Demo Videosu
+
+<video src="video.mp4" width="300" controls></video>
+
 # HepaAR — Karaciğer Nakli Hastaları İçin AR Destekli İmmünosüpresif İlaç Uyum Takip Uygulaması
 
 ## 1. Proje Başlığı
