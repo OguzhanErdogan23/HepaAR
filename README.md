@@ -1,6 +1,10 @@
 ## 🎥 Proje Tanıtım ve Demo Videosu
 
-<video src="https://github.com/OguzhanErdogan23/HepaAR/raw/main/Demo_video.mp4" width="300" controls></video>
+
+
+https://github.com/user-attachments/assets/c97ccb15-19dc-4fb1-8ce1-548e053b0b3d
+
+
 
 # HepaAR — Karaciğer Nakli Hastaları İçin AR Destekli İmmünosüpresif İlaç Uyum Takip Uygulaması
 
