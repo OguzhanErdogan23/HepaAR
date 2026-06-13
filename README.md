@@ -192,7 +192,7 @@ Saf Dart iş mantığı (`DoseScheduleEngine`, `AdherenceCalculator`, `BadgeRule
 
 ## ⚠️ Tıbbi Sorumluluk Reddi (Disclaimer)
 
-> Bu uygulama, akademik amaçlarla geliştirilmiş bir **öğrenci projesi prototipidir.** Uygulama içerisinde sunulan prospektüs bilgileri, hatırlatıcılar, uyum pencereleri ve semptom değerlendirmeleri klinik onaylı tıbbi tavsiye niteliği taşımamaktadır. Bu yazılım profesyonel bir tıbbi teşhis, tedavi veya doktor tavsiyesinin yerine kullanılamaz. İlaç dozajlarınız ve klinik süreçleriniz için her zaman kendi uzman hekiminizin ve transplant koordinatörünüzün yönlendirmelerini esas alınız.
+Bu uygulama, akademik amaçlarla geliştirilmiş bir **öğrenci projesi prototipidir.** Uygulama içerisinde sunulan prospektüs bilgileri, hatırlatıcılar, uyum pencereleri ve semptom değerlendirmeleri klinik onaylı tıbbi tavsiye niteliği taşımamaktadır. Bu yazılım profesyonel bir tıbbi teşhis, tedavi veya doktor tavsiyesinin yerine kullanılamaz. İlaç dozajlarınız ve klinik süreçleriniz için her zaman kendi uzman hekiminizin ve transplant koordinatörünüzün yönlendirmelerini esas alınız.
 
 ---
 
