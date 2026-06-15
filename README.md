@@ -1,4 +1,5 @@
 ## Oğuzhan Erdoğan - 215541014
+Uygulama APK'sı Releases kısmında mevcuttur.
 
 ## 🎥 Proje Tanıtım ve Demo Videosu
 
