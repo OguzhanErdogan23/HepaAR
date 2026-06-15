@@ -1,5 +1,5 @@
 ## Oğuzhan Erdoğan - 215541014
-Uygulama APK'sı Releases kısmında mevcuttur.
+Uygulama APK'sı Releases kısmında mevcuttur. HepaAR.apk adlı dosyayı cihazınıza indirip kurarak kullanıma başlayabilirsiniz.
 
 ## 🎥 Proje Tanıtım ve Demo Videosu
 
